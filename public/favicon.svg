@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <text
+    x="50%"
+    y="53%"
+    fill="#b8bec8"
+    dominant-baseline="central"
+    font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace"
+    font-size="48"
+    font-weight="700"
+    text-anchor="middle"
+  >{}</text>
+</svg>
